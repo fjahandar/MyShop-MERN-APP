@@ -11,13 +11,13 @@ and React.js has been used for the frontend. MongoDB is used as a NoSQL database
 
 In the following you can see the screen shots of the actual project:
 
-## Register page:
+## Register Page:
 This page is where the users can register and create an account entering their name, last name, password, and avatar. Also the privacy policy
 is presented here for user to review.
 
 <img src="./screen shot/Screen Shot 2021-12-16 at 7.46.44 AM.png">
 
-## Login page:
+## Login Page:
 This page is where the users can login to their account entering email and the password. 
 
 <img src="./screen shot/Screen Shot 2021-12-16 at 7.45.41 AM.png">
@@ -28,28 +28,30 @@ to reset their password.
 
 <img src="./screen shot/Screen Shot 2021-12-16 at 7.46.27 AM.png">
 
-## Profile page:
+## Profile Page:
 This page is where the users can see their profile information and edit them if necessary. Also, there is an option to change the password.
 
 <img src="./screen shot/Screen Shot 2021-12-16 at 7.45.03 AM.png">
 
-## Landing page (after login)
+## Landing Page (after login)
 In this page users can see different options according to their status. The status is also visible on this page whci can be either user or admin.
 
 <img src="./screen shot/Screen Shot 2021-12-16 at 7.44.51 AM.png">
 
-## Shopping cart page 
+## Shopping Cart Page 
 In this page users can see their cart even without logging into their account. They can log in to their account and checkout their order at any time
 they desire to buy them. 
 
 <img src="./screen shot/Screen Shot 2021-12-16 at 7.46.58 AM.png">
 
-## Checkout page - Shipping info
+## Checkout Page - Shipping Info
 In this page users can enter their shipping details in order to purchase the items in their cart.
 
 <img src="./screen shot/Screen Shot 2021-12-16 at 7.47.54 AM.png">
 
-## Checkout page - Payment info
+<img src="./screen shot/Screen Shot 2021-12-16 at 7.48.02 AM.png">
+
+## Checkout Page - Payment Info
 In this page users can enter their payment details in order to purchase the items in their cart. This will validate the data the user entered and if corret and confirmed 
 by the user, it will be redirected to the 3D secure for the payment. 
 
